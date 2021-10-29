@@ -1,0 +1,21 @@
+        body {
+			background-color:steelblue;
+		}
+		.cuerpoPagina {
+                display: flex;
+        }
+
+        .cuerpoArticulo {
+                display: flex;
+        }
+		.textArticulo {
+                padding-left: 2em;
+        }
+		.textlabel {
+			color:red;
+			font-weight: bold;
+		}
+		.textlabel2 {
+			font-size: 2em;
+			color:orange;
+		}
