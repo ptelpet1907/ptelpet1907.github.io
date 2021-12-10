@@ -1,0 +1,168 @@
+    body {
+        width: 100%;
+    }
+    header {
+        font-weight:bolder;
+        font-size: 2em;
+    }
+    nav {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: stretch;
+    }
+    .menu {
+        text-align: center;
+        font-weight: bolder;
+        margin: 1em;
+        padding-left: 1em;
+        padding-right: 1em;
+
+    }
+    .link1 {
+        margin: 1em;
+        padding-right: 5em;
+       
+    }
+    .link1:hover {
+        font-size: 1.5em;
+        color: red;
+    }
+    .link2 {
+        margin: 1em;
+        padding-right: 5em;
+    }
+    .link2:hover {
+        font-size: 1.5em;
+        color: red;
+    }
+    .link3 {
+        margin: 1em;
+        padding-right: 5em;
+    }
+    .link3:hover {
+        font-size: 1.5em;
+        color: red;
+    }
+    .link4 {
+        margin: 1em;
+        padding-right: 5em;
+    }
+    .link4:hover {
+        font-size: 1.5em;
+        color: red;
+    }
+    .link5 {
+        margin: 1em;
+        padding-right: 5em;
+    }
+    .link5:hover {
+        font-size: 1.5em;
+        color: red;
+    }
+    .todo {
+        width: 100%;
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: stretch;
+    }
+    .textos {
+        flex-grow: 1;
+        flex-basis: 0;
+
+        padding-right: 1em;
+
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items:stretch;
+    }
+    .parte1 {
+        flex-grow: 2;
+        flex-basis: 0;
+        margin: .5em;
+    }
+    .parte1 img {
+        width: 250px;
+        height: 200px;
+    }
+    .art1 {
+        width: auto;
+    
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items:flex-start;
+        align-content: flex-start;
+
+        padding: 1em;
+        margin: .5em;
+    }
+    .img1 {
+        flex-grow: 1;
+        flex-basis: 0;
+    }
+    .p1 {
+        font-weight:bold;
+        flex-grow: 1;
+    }
+    .p2 {
+        font-weight:bold;
+        flex-grow: 1;
+    }
+    .art2 {
+        padding: 1em;
+        margin: .5em;
+    }
+    .parte2 {
+        flex-grow: 1;
+        flex-basis: 0;
+        margin: .5em;
+    }
+    .parte2 img {
+        width: 250px;
+        height: 150px;
+    }
+    .p3 {
+        font-weight:bold;
+    }
+    .p4 {
+        font-weight:bold;
+    }
+    .art3 {
+        padding: 1em;
+        margin: .5em;
+    }
+    .art4 {
+        padding: 1em;
+        margin: .5em;
+    }
+    .parte3 {
+        flex-grow: 1;
+        flex-basis: 0;
+        margin: .5em;
+    }
+    .parte3 img {
+        width: 250px;
+        height: 150px;
+    }
+    .p5 {
+        font-weight:bold;
+    }
+    .p6 {
+        font-weight:bold;
+    }
+    .art5 {
+        padding: 1em;
+        margin: .5em;
+    }
+    .art6 {
+        padding: 1em;
+        margin: .5em;
+    }
